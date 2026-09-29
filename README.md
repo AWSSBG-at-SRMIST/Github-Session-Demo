@@ -1,4 +1,4 @@
 # Github-Session-Demo
 
 Hi, this is Yash
-Hi, this is Antigravity
+Hi, this is Yash
